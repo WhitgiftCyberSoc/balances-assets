@@ -2,7 +2,7 @@
 
 ######For the listing on Google Play, click [here](https://play.google.com/store/apps/details?id=in.iamkelv.balances&hl=en_GB).
 
-######For the Android app code, click [here](https://github.com/kz/balances-backend).
+######For the Android app code, click [here](https://github.com/kz/balances-android).
 
 ######For the Laravel application which provides the backend to this watchapp, click [here](https://github.com/kz/balances-backend).
 
